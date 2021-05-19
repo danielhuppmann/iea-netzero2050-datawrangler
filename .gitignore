@@ -1,3 +1,21 @@
+# Extras and binary files
+*~
+~*
+*csv
+*xlsx
+*png
+*jpg
+*pdf
+*zip
+*json
+
+# idea
+.idea/
+*.iml
+
+# Apple file system
+*.DS_STORE
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
