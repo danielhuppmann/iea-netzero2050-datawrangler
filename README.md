@@ -1,4 +1,4 @@
-# Data wrangling scripts for the "IEA Net Zero by 2050" Scenario 
+# Data wrangling for the "IEA Net Zero by 2050" Roadmap
 
 Copyright 2021 Daniel Huppmann
 
